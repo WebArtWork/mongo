@@ -1,5 +1,6 @@
 {
 	"priority": 998,
+	"name": "mongo",
 	"dependencies": {},
 	"router": [{
 		"name": "Start",
