@@ -1,7 +1,9 @@
 {
 	"priority": 998,
 	"name": "mongo",
-	"dependencies": {},
+	"dependencies": {
+		"mongoose": "*"
+	},
 	"router": [{
 		"name": "Start",
 		"src": "index.js"
